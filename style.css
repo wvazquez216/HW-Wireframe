@@ -1,0 +1,165 @@
+* {
+  box-sizing: border-box;
+}
+
+
+body{
+	width: 960px;
+	background-color: #777;
+
+}
+
+header{
+	width: 940px;
+	height: 94px;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	background: #ebebeb;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	margin-left: 156px;
+	margin-right: 200px;
+}
+
+
+h1{
+	text-align: center;
+  	font-family: Helvetica;
+  	font-size: 18px;
+  	color: #777;
+}
+
+
+h2{
+	text-align: center;
+  	font-family: Helvetica;
+  	font-size: 18px;
+  	color: #ebebeb;
+}
+
+h3{
+	text-align: center;
+  	font-family: Arial;
+  	font-size: 18px;
+  	color: #777;
+  	font-weight: bold;
+}
+
+nav{
+	width: 940px;
+	height: 94px;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	background: #ebebeb;
+	margin-bottom: 20px;
+	margin-left: 156px;
+	margin-right: 200px;
+}
+
+section{
+	width: 495px;
+	height: 287px;
+	background: #ebebeb;
+	margin-bottom: 20px;
+	margin-left: 156px;
+	margin-right: 21px;
+	padding: 10px;
+	float: left;
+
+}
+
+.contain{
+	padding-top: 29px;
+	padding-bottom: 11px;
+	padding-right: 10px;
+	padding-left: 10px;
+	float: left;
+}
+
+article{
+	width: 475px;
+	height: 203px;
+	background: #777;
+	margin-bottom: 11px;
+	margin-right: 10px;
+	margin-top: 26px;
+	float: left;
+
+}
+
+.art{
+	padding-top: 14px;
+	padding-right: 27px;
+	padding-bottom: 159px;
+	padding-left: 20px;
+
+}
+
+.headers{
+	width: 428px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin-bottom: 10px;
+	
+	margin-right: 27px;
+	margin-top: 20px;
+	background: #ebebeb;
+	clear: both;
+
+
+}
+
+
+
+
+.para{
+	width: 428px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin-bottom: 10px;
+	margin-right: 27px;
+	background: #ebebeb;
+	clear: both;
+	
+}
+
+
+
+p{
+	text-align: center;
+  	font-family: Helvetica;
+  	font-size: 18px;
+	color: #777;
+
+}
+
+aside{
+	width: 404px;
+	padding-top: 42px;
+	padding-bottom: 234px;
+	background: #ebebeb;
+	margin-bottom: 20px;
+	margin-right: 200px;
+	
+
+}
+
+.rightside{
+	padding-left: 195px;
+	padding-right: 181px;
+	float: left;
+}
+
+footer{
+	width: 940px;
+	height: 94px;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	background: #ebebeb;
+	margin-bottom: 20px;
+	margin-left: 156px;
+	margin-right: 200px;
+	clear: both;
+
+}
+
