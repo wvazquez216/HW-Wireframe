@@ -45,6 +45,8 @@ h3{
   	font-weight: bold;
 }
 
+
+
 nav{
 	width: 940px;
 	height: 94px;
@@ -68,6 +70,8 @@ section{
 
 }
 
+
+
 .contain{
 	padding-top: 29px;
 	padding-bottom: 11px;
@@ -78,11 +82,11 @@ section{
 
 article{
 	width: 475px;
-	height: 203px;
+	height: 188px;
 	background: #777;
 	margin-bottom: 11px;
 	margin-right: 10px;
-	margin-top: 26px;
+	margin-top: 41px;
 	float: left;
 
 }
@@ -140,14 +144,15 @@ aside{
 	background: #ebebeb;
 	margin-bottom: 20px;
 	margin-right: 200px;
-	
+	float: left;
 
 }
 
 .rightside{
+	
 	padding-left: 195px;
 	padding-right: 181px;
-	float: left;
+	
 }
 
 footer{
