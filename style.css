@@ -138,20 +138,22 @@ p{
 }
 
 aside{
-	width: 404px;
-	padding-top: 42px;
-	padding-bottom: 234px;
+	
+	
 	background: #ebebeb;
-	margin-bottom: 20px;
-	margin-right: 200px;
+	padding-bottom: 10px;
 	float: left;
 
 }
 
 .rightside{
 	
-	padding-left: 195px;
-	padding-right: 181px;
+	padding: 121px;
+	padding-bottom: 150px;
+	padding-right: 116px;
+	
+
+
 	
 }
 
